@@ -1,6 +1,6 @@
 <h1 align="left">Introduction</h1>
 
-Hello! My name is **Douglas**, and I am a Data Science graduate with a strong passion for software development, database management, data visualization, and machine learning. I am constantly exploring new technologies and techniques to solve complex problems and improve efficiency.
+Hello! My name is **Douglas**, and I am a Data Science graduate with a strong passion for software development, machine learning, database management, data visualization. I am constantly exploring new technologies and techniques to solve complex problems and improve efficiency.
 
 ---
 
