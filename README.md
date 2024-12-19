@@ -67,5 +67,5 @@ Hello! My name is **Douglas**, and I am a Data Science graduate with a strong pa
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dug22&hide_progress=true" />
 </p>
 <p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dug22&theme=dark"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dug22&theme=compact"/>
 </p>
