@@ -16,7 +16,15 @@ Hello! My name is **Douglas**, and I am a Data Science graduate with a strong pa
 - C#
 - PHP
 - HTML/CSS
+- LaTeX
 ---
+
+### Programming Environments
+- PyCharm
+- IntelliJ
+- RStudio
+- VSCode
+- Jupyter Notebook
 
 <h1 align="left">GitHub Stats</h1>
 
