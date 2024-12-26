@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 My name is Douglas, and I am an experienced software engineer and recent data science graduate. I am interested in software development, machine learning, database management, and data visualizations.
----
+
 
 <h1 align="left">Tech Expertise 📖</h1>
 
