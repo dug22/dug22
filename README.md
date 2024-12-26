@@ -1,7 +1,6 @@
-<h1 align="left">Introduction</h1>
+<h1 align="left">Hi there 👋</h1>
 
-Hello! My name is **Douglas**, and I am a Data Science graduate with a strong passion for software development, machine learning, database management, and data visualization. I am constantly exploring new technologies and techniques to solve complex problems and improve efficiency.
-
+My name is Douglas, and I am an experienced software engineer and recent data science graduate. I am interested in software development, machine learning, database management, and data visualizations.
 ---
 
 <h1 align="left">Tech Expertise 📖</h1>
