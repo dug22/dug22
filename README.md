@@ -23,6 +23,7 @@ A collection of Jupyter Notebooks demonstrating the features and capabilities of
 [https://github.com/dug22/Ollama-Adventures](https://github.com/dug22/Ollama-Adventures)
 
 ### Another Project That is a WIP
+....
 
 <h1 align="left">GitHub Stats</h1>
 
