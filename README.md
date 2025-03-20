@@ -1,5 +1,3 @@
-<h1 align="left">Hi there 👋</h1>
-
 ## Douglas 
 - Recent Data Science Graduate.
 - Enjoy Software Developing, Machine Learning, Database Management, and other Data Science related topics.
