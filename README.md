@@ -3,7 +3,7 @@
 - Enjoy Software Developing, Machine Learning, Database Management, and other Data Science related topics.
 - I mainly work with Java, Python, R, Windows, and Linux.
 
-# Projects I've Worked On
+## Projects I've Worked On
 
 ### WebFisher
 Web Fisher is an AI-powered web scraping app that uses Ollama, Playwright, Spring AI, and more. It extracts web content and leverages large language models to provide insightful answers to your queries.
