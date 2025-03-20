@@ -1,29 +1,30 @@
 <h1 align="left">Hi there 👋</h1>
 
-My name is Douglas, and I am an experienced software engineer and recent data science graduate. I am interested in software development, machine learning, database management, and data visualizations.
+## Douglas 
+- Recent Data Science Graduate.
+- Enjoy Software Developing, Machine Learning, Database Management, and other Data Science related topics.
+- I mainly work with Java, Python, R, Windows, and Linux.
 
+# Projects I've Worked On
 
-<h1 align="left">Tech Expertise 📖</h1>
+### WebFisher
+Web Fisher is an AI-powered web scraping app that uses Ollama, Playwright, Spring AI, and more. It extracts web content and leverages large language models to provide insightful answers to your queries.
 
-### Languages I have experience with:
-- Python
-- R
-- Java
-- JavaScript
-- Go
-- Lua
-- C#
-- PHP
-- HTML/CSS
-- LaTeX
----
+[https://github.com/dug22/Web-Fisher](https://github.com/dug22/Web-Fisher)
 
-### Programming Environments
-- PyCharm
-- IntelliJ
-- RStudio
-- VSCode
-- Jupyter Notebook
+### PDF-Pinpoint
+
+Pinpoint is a simple local chatbot using retrieval-augmented generation (RAG). It leverages large language models to process and search multiple PDF documents, helping users quickly find answers
+
+[https://github.com/dug22/PDF-Pinpoint](https://github.com/dug22/PDF-Pinpoint)
+
+### Ollama-Adventures
+
+A collection of Jupyter Notebooks demonstrating the features and capabilities of Ollama's models.
+
+[https://github.com/dug22/Ollama-Adventures](https://github.com/dug22/Ollama-Adventures)
+
+### Another Project That is a WIP
 
 <h1 align="left">GitHub Stats</h1>
 
