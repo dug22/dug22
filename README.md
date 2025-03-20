@@ -22,6 +22,13 @@ A collection of Jupyter Notebooks demonstrating the features and capabilities of
 
 [https://github.com/dug22/Ollama-Adventures](https://github.com/dug22/Ollama-Adventures)
 
+
+### LLaVA-Vision
+
+LLaVA Vision is a simple Spring Boot web application that allows users to upload and analyze images. These images are then processed and analyzed using LLaVA in response to the user's query or request.
+
+[https://github.com/dug22/LLaVA-Vision](https://github.com/dug22/LLaVA-Vision)
+
 ### Another Project That is a WIP
 ....
 
