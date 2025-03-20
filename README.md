@@ -10,11 +10,13 @@ Web Fisher is an AI-powered web scraping app that uses Ollama, Playwright, Sprin
 
 [https://github.com/dug22/Web-Fisher](https://github.com/dug22/Web-Fisher)
 
-### PDF-Pinpoint
+### PDF-Pinpoint & PDF-PinPoint-Py
 
 Pinpoint is a simple local chatbot using retrieval-augmented generation (RAG). It leverages large language models to process and search multiple PDF documents, helping users quickly find answers
 
 [https://github.com/dug22/PDF-Pinpoint](https://github.com/dug22/PDF-Pinpoint)
+
+[https://github.com/dug22/PDF-Pinpoint-Py](https://github.com/dug22/PDF-Pinpoint-Py)
 
 ### Ollama-Adventures
 
