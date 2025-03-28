@@ -31,7 +31,12 @@ LLaVA Vision is a simple Spring Boot web application that allows users to upload
 
 [https://github.com/dug22/LLaVA-Vision](https://github.com/dug22/LLaVA-Vision)
 
-### Another Project That is a WIP
+### Carpentry 
+
+Carpentry is a Java-based dataframe tool, analogous to shaping wood into useful objects. It offers features for data loading, exporting, cleaning, transformation, filtering, and summarization.
+
+[https://github.com/dug22/carpentry](https://github.com/dug22/carpentry)
+
 ....
 
 <h1 align="left">GitHub Stats</h1>
