@@ -18,7 +18,7 @@
 ## 🚀 Projects I've Worked On
 
 ### ⚡ Carpentry
-> _Just as a carpenter shapes and transforms wood into useful products, Carpentry is a Java DataFrame library that allows you to efficiently shape and transform your data according to your needs._
+> _Just like how a skilled carpenter shapes and transforms wood into useful products, Carpentry aims to help Java developers to shape and transform their data into meaningful insights. Carpentry is a Java DataFrame library that supports tasks like loading, exporting, cleaning, transforming, filtering, visualizing, and summarizing data._
 - 🔗 [**Carpentry GitHub Repository**](https://github.com/dug22/carpentry)
 
 ---
