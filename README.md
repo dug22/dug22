@@ -42,6 +42,12 @@
 
 ---
 
+### ⚡Cipher-Cracker
+>_Cipher-Cracker is a Java-based command-line tool that allows you to crack Caesar or Vigenère ciphertext loaded from a file, apply Caesar or Vigenère encryption to a message, and reverse text encrypted using Vigenère or Caesar ciphers._
+- 🔗 [**Cipher-Cracker**](https://github.com/dug22/CipherCracker)
+
+---
+
 ### ⚡ LLaVA-Vision
 > _A Spring Boot web application for uploading images and analyzing them using LLaVA in response to user queries._
 - 🔗 [**LLaVA-Vision GitHub Repository**](https://github.com/dug22/LLaVA-Vision)
