@@ -23,6 +23,10 @@
 
 ---
 
+### ⚡LockSpot
+> _LockSpot is a machine learning tool that allows users to input ciphertext and receive a conducted analysis of what cipher algorithm was most likely used to encrypt it.
+- 🔗 [**LockSpot GitHub Repository**](https://github.com/dug22/LockSpot)
+
 ### ⚡ WebFisher
 > _An AI-powered web scraping app using Ollama, Playwright, Spring AI, and more. Extracts web content and leverages large language models for insightful answers._
 - 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
