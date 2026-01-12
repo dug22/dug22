@@ -13,7 +13,6 @@
 ## About Me
 - Recent Data Science Graduate.
 - Enjoy Software Developing, Machine Learning, Database Management, and other Data Science related topics.
-- I mainly work with Java, Python, R, Java Script, Windows, and Linux.
 
 ## 🚀 Projects I've Worked On
 
