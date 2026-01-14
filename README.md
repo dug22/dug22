@@ -23,7 +23,7 @@
 ---
 
 ### ⚡LockSpot
-> _LockSpot is a machine learning tool that allows users to input ciphertext and receive a conducted analysis of what cipher algorithm was most likely used to encrypt it._
+> _LockSpot is a machine learning tool designed to analyze ciphertext and identify the most likely cipher algorithm used._
 - 🔗 [**LockSpot GitHub Repository**](https://github.com/dug22/LockSpot)
 
 ### ⚡ WebFisher
