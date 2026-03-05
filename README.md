@@ -32,7 +32,7 @@
 - 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
 
 ### ⚡Image Shield
-> _Image Shield is a software that allows you to keep your image files safe.
+> _Image Shield is a software that allows you to keep your image files safe._
 - 🔗 [**Image Shield GitHub Repository**](https://github.com/dug22/Image-Shield)
 ---
 
