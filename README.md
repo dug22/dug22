@@ -26,10 +26,14 @@
 > _LockSpot is a machine learning tool designed to analyze ciphertext and identify the most likely cipher algorithm used._
 - 🔗 [**LockSpot GitHub Repository**](https://github.com/dug22/LockSpot)
 
+
 ### ⚡ WebFisher
 > _An AI-powered web scraping app using Ollama, Playwright, Spring AI, and more. Extracts web content and leverages large language models for insightful answers._
 - 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
 
+### ⚡Image Shield
+> _Image Shield is a software that allows you to keep your image files safe.
+- 🔗 [**Image Shield GitHub Repository**](https://github.com/dug22/Image-Shield)
 ---
 
 ### ⚡ PDF-Pinpoint & PDF-Pinpoint-Py
