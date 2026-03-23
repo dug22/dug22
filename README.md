@@ -28,6 +28,12 @@
 
 ---
 
+### ⚡YASMLL 
+> _YASMLL (Yet Another Small Machine Learning Library) is a simple lightweight Java-based machine learning library that enables developers to create and train their own custom classification models._
+- 🔗 [**YASMLL GitHub Repository**](https://github.com/dug22/YASMLL)
+
+---
+
 ### ⚡ WebFisher
 > _An AI-powered web scraping app using Ollama, Playwright, Spring AI, and more. Extracts web content and leverages large language models for insightful answers._
 - 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
@@ -38,12 +44,6 @@
 > _Pinpoint is a simple local chatbot using retrieval-augmented generation (RAG) to process and search multiple PDF documents. Quickly find answers in your files._
 - 🔗 [**PDF Pinpoint (Java)** GitHub Repository](https://github.com/dug22/PDF-Pinpoint)
 - 🔗 [**PDF Pinpoint (Python)** GitHub Repository](https://github.com/dug22/PDF-Pinpoint-Py)
-
----
-
-### ⚡ Ollama-Adventures
-> _A collection of Jupyter Notebooks showing the features and capabilities of Ollama's models._
-- 🔗 [**Ollama Adventure GitHub Repository**](https://github.com/dug22/Ollama-Adventures)
 
 ---
 
