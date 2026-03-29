@@ -28,9 +28,9 @@
 
 ---
 
-### ⚡YASMLL 
-> _YASMLL (Yet Another Small Machine Learning Library) is a simple lightweight Java-based machine learning library that enables developers to create and train their own custom classification models._
-- 🔗 [**YASMLL GitHub Repository**](https://github.com/dug22/YASMLL)
+### ⚡Tenoner 
+> _Tenoner is a well-rounded Java-based machine learning library that enables developers to create and train their own custom classification models._
+- 🔗 [**Tenoner GitHub Repository**](https://github.com/dug22/Tenoner)
 
 ---
 
