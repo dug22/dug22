@@ -8,13 +8,12 @@
 </p>
 
 
-<h1 align="center">👋 Hello, my name is Douglas!</h1>
+<h1 align="center"> Hello, my name is Douglas!</h1>
 
 ## About Me
-- Recent Data Science Graduate.
-- Enjoy Software Developing, Machine Learning, Database Management, and other Data Science related topics.
+My name is Douglas, and I graduated back in May 2024, earning a Bachelor of Science in Data Science. My work primarily focuses on software development, machine learning, database management, and data visualization.
 
-## 🚀 Projects I've Worked On
+## A Few Projects of Mine
 
 ### ⚡ Carpentry
 > _Just like how a skilled carpenter shapes and transforms wood into useful products, Carpentry aims to help Java developers to shape and transform their data into meaningful insights. Carpentry is a Java DataFrame library that supports tasks like loading, exporting, cleaning, transforming, filtering, visualizing, and summarizing data._
