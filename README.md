@@ -8,8 +8,6 @@
 </p>
 
 
-<h1 align="center"> Hello, my name is Douglas!</h1>
-
 ## About Me
 My name is Douglas, and I graduated back in May 2024, earning a Bachelor of Science in Data Science. My work primarily focuses on software development, machine learning, database management, and data visualization.
 
@@ -28,7 +26,7 @@ My name is Douglas, and I graduated back in May 2024, earning a Bachelor of Scie
 ---
 
 ### ⚡Tenoner 
-> _Tenoner is a well-rounded Java-based machine learning library that enables developers to create and train their own custom classification models._
+> _Tenoner is a lightweight, Java-based supervised machine learning library that allows developers and researchers to efficiently build, train, and evaluate custom classifier models._
 - 🔗 [**Tenoner GitHub Repository**](https://github.com/dug22/Tenoner)
 
 ---
