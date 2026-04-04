@@ -31,6 +31,12 @@ My name is Douglas, and I graduated back in May 2024, earning a Bachelor of Scie
 
 ---
 
+### ⚡JJournal
+> _A Jupyter like notebook software for Java._
+- 🔗 [**JJournal GitHub Repository**](https://github.com/dug22/JJournal)
+
+--- 
+
 ### ⚡ WebFisher
 > _An AI-powered web scraping app using Ollama, Playwright, Spring AI, and more. Extracts web content and leverages large language models for insightful answers._
 - 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
