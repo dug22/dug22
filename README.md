@@ -13,35 +13,19 @@ My name is Douglas, and I graduated back in May 2024, earning a Bachelor of Scie
 
 ## A Few Projects of Mine
 
+### ⚡ Cipher Labs
+> _Cipher Labs is an open-source educational platform for Windows designed to teach students and cybersecurity researchers the fundamentals of modern cryptology and cryptanalysis._
+- 🔗 [**Cipher Labs GitHub Repository**](https://github.com/dug22/Cipher-Labs)
+
 ### ⚡ Carpentry
 > _Just like how a skilled carpenter shapes and transforms wood into useful products, Carpentry aims to help Java developers to shape and transform their data into meaningful insights. Carpentry is a Java DataFrame library that supports tasks like loading, exporting, cleaning, transforming, filtering, visualizing, and summarizing data._
 - 🔗 [**Carpentry GitHub Repository**](https://github.com/dug22/carpentry)
 
----
-
-### ⚡LockSpot
-> _LockSpot is a machine learning tool designed to analyze ciphertext and identify the most likely cipher algorithm used._
-- 🔗 [**LockSpot GitHub Repository**](https://github.com/dug22/LockSpot)
-
----
-
-### ⚡Tenoner 
-> _Tenoner is a lightweight, Java-based supervised machine learning library that allows developers and researchers to efficiently build, train, and evaluate custom classifier models._
-- 🔗 [**Tenoner GitHub Repository**](https://github.com/dug22/Tenoner)
-
----
 
 ### ⚡JJournal
 > _A Jupyter like notebook software for Java._
 - 🔗 [**JJournal GitHub Repository**](https://github.com/dug22/JJournal)
 
---- 
-
-### ⚡ WebFisher
-> _An AI-powered web scraping app using Ollama, Playwright, Spring AI, and more. Extracts web content and leverages large language models for insightful answers._
-- 🔗 [**WebFisher GitHub Repository**](https://github.com/dug22/Web-Fisher)
-
----
 
 ### ⚡ PDF-Pinpoint & PDF-Pinpoint-Py
 > _Pinpoint is a simple local chatbot using retrieval-augmented generation (RAG) to process and search multiple PDF documents. Quickly find answers in your files._
